@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Tanjil Change this. This line is changed 2nd time Squirtle 
+
+This line is changed Squirtle Hey Tanjil
+
 Blastoise
 Teenage mutant ninja turtles 
+<<<<<<< HEAD
+all turtles $wag
+
+=======
 all turtles
 
 Rabbit
+
