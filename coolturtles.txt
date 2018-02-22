@@ -1,5 +1,11 @@
-Squirtle 
+This line is changed Squirtle 
 Blastoise
 Teenage mutant ninja turtles 
+<<<<<<< HEAD
 all turtles $wag
+
+=======
+all turtles
+
+Rabbit
 
